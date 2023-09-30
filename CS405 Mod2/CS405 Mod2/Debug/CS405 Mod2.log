@@ -1,0 +1,3 @@
+﻿  SQLInjection.cpp
+C:\Users\Dalton\source\repos\CS405 Mod2\CS405 Mod2\SQLInjection.cpp(190,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS405 Mod2.vcxproj -> C:\Users\Dalton\source\repos\CS405 Mod2\Debug\CS405 Mod2.exe
